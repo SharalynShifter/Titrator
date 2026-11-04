@@ -1,0 +1,1 @@
+Simply put, this is a 1.7.10 precision filler mod that will help you automate autocrafting for things such as logistics pipes or AE2, in case you have no interest in managing fluids. Should be compatible with any fluid container item that follows forge tags.
