@@ -1,0 +1,16 @@
+[
+{
+  "modid": "titrator",
+  "name": "Titrator",
+  "description": "A Titrator, a device able to fill containers with precision.",
+  "version": "1.2",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sharalyn"],
+  "credits": "CoFH API, Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
